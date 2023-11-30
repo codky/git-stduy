@@ -1,2 +1,4 @@
-package com.example.gitstudy.controller;public class TestController2 {
+package com.example.gitstudy.controller;
+
+public class TestController2 {
 }
