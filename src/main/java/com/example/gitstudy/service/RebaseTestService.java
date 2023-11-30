@@ -4,4 +4,6 @@ public class RebaseTestService {
     // test
 
     // test2
+
+    // test3
 }
